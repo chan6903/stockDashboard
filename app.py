@@ -1,7 +1,7 @@
+import pandas as pd
 import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
-import pandas as pd
 import yfinance as yf
 from datetime import datetime, timedelta
 import pytz
@@ -127,4 +127,4 @@ for symbol in stock_symbols:
 
 
 st.sidebar.subheader("About")
-st.sidebar.info("Real Time Stock Data Analysis")
+st.sidebar.info("This project was developed to provide an easy-to-use interface for stock data analysis, catering to both casual investors and financial analysts.")

@@ -75,6 +75,11 @@ View the real-time price changes and percentage movements of predefined stocks (
 ## Example Screenshots
 - **Candlestick Chart with SMA and EMA:**
   Visualize historical price movements with technical indicators overlaid.
+  !["Line Chart"](assest/image1.png)
+  !["Line Chart"](assest/image2.png)
+  !["Line Chart"](assest/image3.png)
+  !["Line Chart"](assest/image4.png)
+  !["Line Chart"](assest/image5.png)
 
 - **Real-Time Stock Prices:**
   Monitor the latest stock performance in the sidebar.
